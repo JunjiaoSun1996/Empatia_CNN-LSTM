@@ -2,7 +2,7 @@
 
 This project is for the Python code for Empatia based on deep learning. The DL model for negative recognition is a conbination of CNN and LSTM. Using WEMAC and WESAD data base.
 
-The paper related to this project has been published in **DOI**: ???
+The paper related to this project has been published in **DOI**: 10.1109/BIBM62325.2024.10822762
 
 **Please, pay attention to all of the file locations in the project. Change them to yours. That is the most impotant thing.**
 
@@ -33,3 +33,12 @@ Environment GPU: Nvidia A30 Cuda: 12.2 Driver: 535.154.05 Torch: 2.0.0+cu118
 5.Then we can start the series of training process. We have the same training files with WEMAC.
 
 **PLEASE CITE:**
+
+@inproceedings{sun2024negative,
+  title={Negative emotion recognition based on physiological signals using a CNN-LSTM model},
+  author={Sun, Junjiao and Portilla, Jorge and Otero, Andres},
+  booktitle={2024 IEEE International Conference on Bioinformatics and Biomedicine (BIBM)},
+  pages={3736--3741},
+  year={2024},
+  organization={IEEE Computer Society}
+}
